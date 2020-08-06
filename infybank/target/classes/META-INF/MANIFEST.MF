@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Workstation
+Build-Jdk: 10.0.2
+Implementation-Title: infybank
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.infybank
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/infybank
+Created-By: Maven Integration for Eclipse
+
